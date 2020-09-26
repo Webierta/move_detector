@@ -4,13 +4,8 @@ Motion alarm.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Aplicación que detecta la aceleración que experimenta el dispositivo, y en función de los ajustes realizados por el usuario, activa la alarma cuando inicia el movimiento o cuando se detiene.
 
-A few resources to get you started if this is your first Flutter project:
+La aplicación utiliza el sensor del acelerómetro para detectar el movimiento del dispositivo en los tres ejes sin considerar la gravedad.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
